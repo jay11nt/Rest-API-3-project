@@ -24,6 +24,25 @@ here is the API which is using all java basics and boot annotations with excepti
                     └── application.properties
 
 
+**1. Set Up the Spring Boot Project**
+
+
+Group: com.example
+
+Artifact: projectname
+
+**Dependencies:-**
+
+Spring Web
+            
+Spring Data JPA
+            
+MySQL Driver
+            
+Spring Boot DevTools (optional, for auto-reload during development)
+            
+Lombok (for boilerplate code generation like getters, setters, etc.)
+
 - **Entities:** Developer.java, Tester.java are the domain models.
 - **Repositories:** Interfaces for data access (DeveloperRepository.java, TesterRepository.java).
 - **Services:** Business logic (DeveloperService.java, TesterService.java).
