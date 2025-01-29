@@ -78,11 +78,14 @@ Run the Application
 your REST APIs:
 
 POST /api/developers – Create a new Developer
-GET /api/developers – Get all Developers
-GET /api/developers/{id} – Get a Developer by ID
-DELETE /api/developers/{id} – Delete a Developer
-Similarly for Testers at /api/testers
 
+GET /api/developers – Get all Developers
+
+GET /api/developers/{id} – Get a Developer by ID
+
+DELETE /api/developers/{id} – Delete a Developer
+
+Similarly for Testers at /api/testers
 
 - **Entities:** Developer.java, Tester.java are the domain models.
 - **Repositories:** Interfaces for data access (DeveloperRepository.java, TesterRepository.java).
