@@ -28,7 +28,7 @@ here is the API which is using all java basics and boot annotations with excepti
 **1. Set Up the Spring Boot Project**
 
 
-Group: com.example
+- Group: com.example
 
 Artifact: projectname
 
