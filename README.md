@@ -32,7 +32,7 @@ here is the API which is using all java basics and boot annotations with excepti
 
 - Artifact: projectname
 
-**Dependencies:-**
+**2. Dependencies:-**
 
 1. Spring Web
             
