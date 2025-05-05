@@ -46,7 +46,7 @@ Artifact: projectname
 
 ### **Step 2-**
 
-Configure the application.properties for MySQL connection
+- Configure the application.properties for MySQL connection
 
 ### **Step 3-**
 
