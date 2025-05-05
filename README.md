@@ -30,7 +30,7 @@ here is the API which is using all java basics and boot annotations with excepti
 
 - Group: com.example
 
-Artifact: projectname
+- Artifact: projectname
 
 **Dependencies:-**
 
