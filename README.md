@@ -50,7 +50,7 @@ here is the API which is using all java basics and boot annotations with excepti
 
 ### **Step 3-**
 
-Define the Entity Classes
+- Define the Entity Classes
 
 ### **Step 4-**
 
