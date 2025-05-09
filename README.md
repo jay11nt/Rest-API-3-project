@@ -62,7 +62,7 @@ here is the API which is using all java basics and boot annotations with excepti
 
 ### **Step 6-**
 
-Create the Controller Layer (REST APIs)
+- Create the Controller Layer (REST APIs)
 
 ### **Step 7-**
 
