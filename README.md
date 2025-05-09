@@ -66,7 +66,7 @@ here is the API which is using all java basics and boot annotations with excepti
 
 ### **Step 7-**
 
-Exception Handling For exception handling, we can create a custom ExceptionHandler to handle common exceptions like EntityNotFoundException
+- Exception Handling For exception handling, we can create a custom ExceptionHandler to handle common exceptions like EntityNotFoundException
 also Custom Error Response Class
 
 ### **Step 7-**
