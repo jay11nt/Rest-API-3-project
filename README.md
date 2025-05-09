@@ -71,7 +71,7 @@ also Custom Error Response Class
 
 ### **Step 7-**
 
-Run the Application
+- Run the Application
 
 **POSTMAN UI requests-**
 
